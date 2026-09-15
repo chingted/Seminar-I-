@@ -7,9 +7,14 @@
 - Department: 資訊工程系
 - Class: 碩資工一甲
 
-## Lecture Notes
+## Lecture Notes 講義筆記
 
-Handwritten lecture notes will be uploaded here.
+### Lecture 01
+
+- Date 日期：2026/09/15
+- Speaker 講者：王大進教授
+- Title 題目：網路診斷與容錯
+- Notes 筆記：[筆記-01.pdf](./筆記-01.pdf)
 
 ## Reports
 
