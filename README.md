@@ -16,7 +16,7 @@
 - Title 題目：網路診斷與容錯
 - Notes 筆記：[筆記-01.pdf](./筆記-01.pdf)
 
-### Lecture 01
+### Lecture 02
 
 - Date 日期：2026/09/22
 - Speaker 講者：彭徐鈞教授
