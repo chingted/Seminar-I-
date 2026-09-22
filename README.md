@@ -5,7 +5,7 @@
 - Department: 資訊工程系
 - Class: 碩資工一甲
 
-### [Seminar-I-Report-Section](./Seminar-I-Report-Section.md)
+### [Seminar-I-Report-Section](./Seminar I Report Section.md)
 
 - Date 日期：2026/09/15
 - Speaker 講者：王大進教授
