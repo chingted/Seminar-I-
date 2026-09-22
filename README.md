@@ -5,13 +5,13 @@
 - Department: 資訊工程系
 - Class: 碩資工一甲
 
-### [Seminar-I-Report-Section](./Seminar I Report Section.md)
+### [Seminar-I-Report-Section](./Seminar%20I%20Report%20Section.md)
 
 - Date 日期：2026/09/15
 - Speaker 講者：王大進教授
 - Title 題目：網路診斷與容錯
 
-### [Seminar II Report Section](./Seminar-II-Report-Section.md)
+### [Seminar II Report Section](./Seminar%20II%20Report%20Section.md)
 
 - Date 日期：2026/09/22
 - Speaker 講者：彭徐鈞教授
