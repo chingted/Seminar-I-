@@ -16,3 +16,8 @@
 - Date 日期：2026/09/22
 - Speaker 講者：彭徐鈞教授
 - Title 題目：人工智慧於醫學訊號診斷與預後評估
+
+### [Seminar III Report Section](./Seminar%20III%20Report%20Section.md)
+- Date 日期：2026/09/29
+- Speaker 講者：蕭育仁
+- Title 題目：微型氣體感測器產品設計開發
