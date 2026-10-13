@@ -22,7 +22,7 @@
 - Speaker 講者：蕭育仁
 - Title 題目：微型氣體感測器產品設計開發
 
-- ### [Seminar III Report Section](./Seminar%20III%20Report%20Section.md)
+### [Seminar IV Report Section](./Seminar%20IV%20Report%20Section.md)
 - Date 日期：2026/10/13
 - Speaker 講者：卓世明
 - Title 題目：AI果園防猴系統
